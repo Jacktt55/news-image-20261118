@@ -8,9 +8,9 @@ Entry for the [news-image-20261118 bounty on make.fun](https://make.fun/bounty/n
 
 ## The image
 
-A one-page newspaper front page. Lead story: the Gulf war widens — Bahrain and Kuwait intercept fresh Iranian drone attacks early Wednesday as the U.S.–Iran fight spreads. Plus six more stories from the day: APEC opens in Shenzhen, Voyager 1 passes one light-day from Earth, Cyclone Akvan turns severe off India's east coast, Trump flies to Shenzhen for APEC, William and Kate meet PM Modi in Delhi, and Brent crude holds near $93.
+A one-page newspaper front page. Lead story: the Gulf war widens — US jets struck an IRGC missile site on Qeshm Island on Tuesday, Iran answered with drones against US bases in Bahrain and Kuwait before dawn on Wednesday, and an ADNOC vessel was hit in the Strait of Hormuz, leaving 11 crew hurt and one missing. Plus six more stories from the full day: Trump arrives in Shenzhen as Xi meets Putin ahead of Thursday's trilateral, Ukraine drops the Kerch Bridge road span, Peltola flips Alaska for a 56-44 Democratic Senate majority, Israeli tanks cross Gaza's Yellow Line, Nvidia posts a record $115.8bn quarter, and Voyager 1 passes one light-day from Earth. Brent at $93.14, Cyclone Akvan, and William and Kate meeting PM Modi appear in the footer.
 
-All text on the image is rendered by code (PIL with DejaVu fonts). The hero photograph of tankers in the Strait of Hormuz at dusk was generated with Pollinations (free, flux model, seed 20261118).
+All text on the image is rendered by code (PIL with DejaVu fonts). The hero photograph of the Strait of Hormuz at dusk was generated with Pollinations (free, flux model, seed 202611182).
 
 ## Run
 
